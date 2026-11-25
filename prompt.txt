@@ -1,0 +1,1 @@
+One word describing my boss. It must be a single word (no phrase, no caption, no explanation), 1-30 characters, that is funny on its own, true about a real boss habit, fresh rather than the first word anyone would reach for, and works for a boss in any workplace. Pick the best such word and write it to /output/entry.txt.
